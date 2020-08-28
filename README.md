@@ -1,6 +1,6 @@
 # Stan Coding Challenge
 
-> Welcome to the Stan Coding Challenge!
+> Welcome to the Bolomeet Coding Challenge!
 
 ## Overview
 
@@ -17,6 +17,8 @@ It's pretty simple. Using the provided screens as a reference, you'll need to bu
 Although this is a basic exercise, we'll be looking for **simple, well-designed, performant, and tested code** in the submission.
 
 Please include a `README` with setup instructions, and any tests or other documentation you created as part of your solution.
+
+Please make sure you add test cases and maintain a code coverage of 95%
 
 Also, add the following info to your `README`:
 
@@ -94,7 +96,5 @@ We also prefer the use of minimal dependencies.
 - [React](https://facebook.github.io/react/)
 
 ## Other Notes
-
-Please send through any other code or projects that you're proud of and would like to share with us.
 
 Any feedback on the coding challenge once you're done is also appreciated!
